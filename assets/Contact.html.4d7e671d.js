@@ -1,0 +1,1 @@
+import{o as a,c as o,F as s,a as t,b as n}from"./app.55baa0de.js";import{_ as r}from"./coming-soon.216517da.js";const c={},e=t("h1",{id:"contact-us",tabindex:"-1"},[t("a",{class:"header-anchor",href:"#contact-us","aria-hidden":"true"},"#"),n(" Contact Us")],-1),d=t("p",null,[t("img",{src:r,alt:"Logo"})],-1);c.render=function(t,n){return a(),o(s,null,[e,d],64)};export default c;

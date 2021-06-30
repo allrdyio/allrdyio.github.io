@@ -1,0 +1,1 @@
+const t={key:"v-7360a78b",path:"/ko/Contact.html",title:"CONTACT",lang:"ko-KR",frontmatter:{lang:"ko-KR",title:"CONTACT",description:"문의사항",sidebar:!1},excerpt:"",headers:[],filePathRelative:"ko/Contact.md"};export{t as data};

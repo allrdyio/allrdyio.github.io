@@ -1,0 +1,1 @@
+import{o as a,c as e,F as r,a as s,b as o}from"./app.55baa0de.js";import{_ as i}from"./coming-soon.216517da.js";const n={},c=s("h1",{id:"services",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#services","aria-hidden":"true"},"#"),o(" Services")],-1),t=s("p",null,[s("img",{src:i,alt:"Logo"})],-1);n.render=function(s,o){return a(),e(r,null,[c,t],64)};export default n;

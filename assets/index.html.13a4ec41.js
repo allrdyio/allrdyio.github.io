@@ -1,0 +1,1 @@
+const e={key:"v-6a537098",path:"/Services/",title:"Services",lang:"en-US",frontmatter:{lang:"en-US",title:"Services",description:"Sevices"},excerpt:"",headers:[],filePathRelative:"Services/README.md"};export{e as data};

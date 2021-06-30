@@ -1,0 +1,1 @@
+import{o as a,c as r,F as o,a as s,b as e}from"./app.55baa0de.js";import{_ as n}from"./coming-soon.216517da.js";const t={},d=s("h1",{id:"서비스",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#서비스","aria-hidden":"true"},"#"),e(" 서비스")],-1),i=s("p",null,[s("img",{src:n,alt:"Logo"})],-1);t.render=function(s,e){return a(),r(o,null,[d,i],64)};export default t;

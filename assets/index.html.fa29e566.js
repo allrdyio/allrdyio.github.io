@@ -1,0 +1,1 @@
+const t={key:"v-2d0a9db2",path:"/ko/",title:"",lang:"ko-KR",frontmatter:{home:!0,heroText:"Allrdy.IO",tagline:"준비중",actions:[{text:"CONTACT",link:"/ko/Contact.md",type:"primary"}],features:[{title:"개발",details:"보안 솔루션 개발"},{title:"보안 컨설팅",details:"모의 해킹"}],footer:"AllrdyO Inc. © 2021"},excerpt:"",headers:[],filePathRelative:"ko/README.md"};export{t as data};
